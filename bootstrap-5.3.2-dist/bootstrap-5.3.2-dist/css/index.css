@@ -1,0 +1,152 @@
+body {
+    background-color: black;
+}
+#logo {
+    height: 50px;
+  }
+
+.active1 {
+    color: gold;
+}
+
+.main {
+    background-color: #232323;
+}
+
+.anime-main {
+    padding: 15px;
+}
+
+.top-img-size {
+    margin-top: 10px;
+    margin-left: 15px;
+}
+
+
+.anime-recent {
+    background-color: rgb(212, 183, 19);
+    border-style: solid;
+    border: 1px solid whitesmoke;
+    padding-top: 5px;
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.slider-title {
+    background-color: rgb(212, 183, 19);
+    text-align: center;
+}
+
+.slider-title2 {
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 19px;
+    background-color: rgb(212, 183, 19);
+    text-align: center;
+}
+.slider-title2:hover {
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+
+.anime-content {
+    border-style: solid;
+    border-left: 1px solid whitesmoke;
+    border-right: 1px solid whitesmoke;
+    color: white;   
+}
+
+.anime-content img{
+    margin: 5px;
+    box-shadow: 7px 7px;
+}
+
+.anime-slider{
+    border: 1px solid whitesmoke;
+}
+
+.carousel-main {
+    margin-bottom: 20px;
+}
+.anime-right-main {
+    padding: 15px;
+}
+
+.anime-recently-added img{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    box-shadow: 5px 5px;
+}
+
+.anime-right-content img {
+    height: 70px;
+    width: 55px;
+}
+
+.recently-added, .top-anime {
+    background-color: rgb(212, 183, 19);
+    border-style: solid;
+    border: 1px solid whitesmoke;
+    padding-top: 5px;
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.anime-right-content {
+    margin-bottom: 10px;
+}
+
+.anime-right-content, .anime-recently-added {
+    border-style: solid;
+    border-left: 1px solid whitesmoke;
+    border-right: 1px solid whitesmoke;
+    color: white;   
+}
+.top-link {
+    margin-top: 10px;
+}
+
+.color-top, .color-top span {
+    color : #717171;
+}
+
+.titlelink{
+    color: gold; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+} 
+
+.titlelink:hover{
+    color: white;
+}
+.titlep{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+}
+.Anime{
+    text-align: center;
+}
+
+a:link { 
+    text-decoration: none; 
+  } 
+  a:visited { 
+    text-decoration: none; 
+  } 
+  a:hover { 
+    text-decoration: none; 
+  } 
+  a:active { 
+    text-decoration: none; 
+  }
+
+  .img-size {
+    height: 100px;
+  }
+
+.colorM {
+    color: rgb(47, 154, 47);
+    font-weight: bold;
+}
